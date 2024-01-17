@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ximena845
 - 👀 I’m interested in BackEnd Development.
-- 🌱 I’m currently learning JavaScript, Node.js
+- 🌱 I’m currently learning html & CSS, JavaScript and Node.js
 - 💞️ I’m open to collaborate on projects.
 - 📫 Email me: @felybonareri506@gmail.com
 
